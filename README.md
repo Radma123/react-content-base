@@ -10,7 +10,7 @@
 #### Prod
 1. `git clone <repo_url>`
 2. `cp example.env .env` (enter your domain)
-3. `docker-compose up -d --build`
+3. `sudo docker compose up -d --build`
 
 ### Architecture
 - React (Vite)
